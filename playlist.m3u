@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="Polimer News" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Polimer_News.png" group-title="Tamil",Polimer News
+https://cdn.pishow.tv/ott/live/1245/master.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="Polimer TV" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Polimer_TV.png" group-title="Tamil",Polimer TV
+https://cdn-2.pishow.tv/live/1241/master.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="Puthiya Thalaimurai" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Puthiya_Thalaimurai.png" group-title="Tamil",Puthiya Thalaimurai
+https://cdn.pishow.tv/ott/live/1261/master.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="Thanthi TV" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Thanthi_TV.png" group-title="Tamil",Thanthi TV
+https://cdn.pishow.tv/ott/live/1612/master.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="News7 Tamil" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/News_7.png" group-title="Tamil",News7 Tamil
+https://cdn.pishow.tv/ott/live/1498/master.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="News Tamil 24x7" tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1433.png" group-title="Tamil",News Tamil 24x7
+https://cdn.pishow.tv/ott/live/1433/master.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="VASANTH TV" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/News_Tamil_24x7.png" group-title="Tamil",VASANTH TV
+https://cdn.pishow.tv/ott/live/1247/master.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="Malaimurasu Seithigal" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Malai_Murasu.png" group-title="Tamil",Malaimurasu Seithigal
+https://cdn.pishow.tv/ott/live/1606/master.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="DD Podhigai" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/D_Tamil.png" group-title="Tamil",DD Podhigai
+https://cdn-2.pishow.tv/live/26/master.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="Tamilan Television" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Tamilan_TV.png" group-title="Tamil",Tamilan Television
+https://cdn.pishow.tv/ott/live/1259/master.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="MALAR TV" tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-473.png" group-title="Tamil",MALAR TV
+https://cdn.pishow.tv/ott/live/473/master.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="Vendhar TV" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Vendhar_TV.png" group-title="Tamil",Vendhar TV
+https://cdn.pishow.tv/ott/live/1271/master.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="SHALINI TV" tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1381.png" group-title="Tamil",SHALINI TV
+https://cdn-2.pishow.tv/live/1381/master.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="NAMBIKKAI TV" tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1389.png" group-title="Tamil",NAMBIKKAI TV
+https://cdn.pishow.tv/ott/live/1389/master.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="SAIRAM TV" tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1611.png" group-title="Tamil",SAIRAM TV
+https://cdn.pishow.tv/ott/live/1611/master.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="Kalaignar Chithiram" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Chithiram.png" group-title="Tamil",Kalaignar Chithiram
+https://cdn-6.pishow.tv/live/1243/master.m3u8
+#EXTINF:-1 tvg-id="18" tvg-name="Peppers TV" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Peppers_TV.png" group-title="Tamil",Peppers TV
+https://cdn-2.pishow.tv/live/1383/master.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="MK SIX" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/MK_Six.png" group-title="Tamil",MK SIX
+https://cdn.pishow.tv/ott/live/1253/master.m3u8
+#EXTINF:-1 tvg-id="21" tvg-name="7S Music" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/7s_Music.png" group-title="Tamil",7S Music
+https://cdn.pishow.tv/ott/live/1257/master.m3u8
+#EXTINF:-1 tvg-id="22" tvg-name="MAHA MOVIE" tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-10007.png" group-title="Tamil",MAHA MOVIE
+https://cdn-6.pishow.tv/live/10007/master.m3u8
